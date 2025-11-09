@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1043149018553",
+    "project_id": "lalalika-project",
+    "storage_bucket": "lalalika-project.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043149018553:android:6c6391e1f3447812439268",
+        "android_client_info": {
+          "package_name": "com.example.lalalikalogistics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1043149018553-om1v9en9rl27hjd17eljvrm33tbki2lt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjLb0L92C0antXZyweMRVkXHhyEPk_Dhw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1043149018553-om1v9en9rl27hjd17eljvrm33tbki2lt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
